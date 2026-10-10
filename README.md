@@ -9,3 +9,6 @@ https://colab.research.google.com/drive/16U6aSe8DFihqcdOFncFIfIUn3FAr8Luz?usp=sh
 
 This is the link of my python assignment3: -
 https://colab.research.google.com/drive/17S-WJOVAkEa7UnawDV2SaS6mkr8llZqd?usp=sharing
+
+This is the link of my python module end assignment: -
+https://colab.research.google.com/drive/1QURUM2XGlagHB2CbhWnyfk99HGzYFEk2?usp=sharing
